@@ -1,19 +1,19 @@
 Full Name: 	 Ashutosh Padelkar
 
 CONTACT INFORMATION
-Email ID:	 ashutosh.padelkar@gmail.com
-Skype: 		 live:ashutosh.padelkar
+Email ID:        	 ashutosh.padelkar@gmail.com
+Skype: 	        	 live:ashutosh.padelkar
 Phone Number: 	 +919757052487
-Home Address:    C-1 Hemavati,
-		 New Mandala, 
-		 Mumbai 400094, 
-		 Maharashtra, 
-		 India
+Home Address:      C-1 Hemavati,
+      	         		 New Mandala, 
+                 		 Mumbai 400094, 
+                 		 Maharashtra, 
+                		 India
 
 Work Location: 	 Mumbai, India (GMT +5:30)
 
 University: 	 Department of Physics, Ruia College
-                 Affiliated to University of Mumbai
+                         Affiliated to University of Mumbai
 
 I am a first year student in Ramnarain Ruia College, Mumbai studying physics, 
 with  mathematics and computer science as ancillary subjects. My primary 
@@ -52,36 +52,36 @@ PROJECT DETAILS
 
 Title:	      Strong Gravitational Lens Time Delays
 
-Abstract:     Analysis of time delays of strongly lensed quasars is a promising 
-	      candidate to permit constraints on dark energy. A new approach to
-       	      this problem is a statistical algorithm that analyzes the light 
-	      curves of multiple images formed by the lens. 
+Abstract:      Analysis of time delays of strongly lensed quasars is a promising 
+         	      candidate to permit constraints on dark energy. A new approach to
+         	      this problem is a statistical algorithm that analyzes the light 
+         	      curves of multiple images formed by the lens. 
 
 Objective:    To design, in python or C++, a program that analyzes the lightcurve
-	      data from images to determine time delays and error bounds, and to 
-	      design a light curve simulation based on the provided framework that 
-	      imposes random time delays to demonstrate the utility of the algorithm. 
-	      The ultimate aim of the program is to be able to calculate the time 
-	      delays and error bounds directly from the provided images. A design
-	      goal is to follow an inherent modular approach to streamline the 
-	      process of regression testing. 
+         	      data from images to determine time delays and error bounds, and to 
+         	      design a light curve simulation based on the provided framework that 
+         	      imposes random time delays to demonstrate the utility of the algorithm. 
+        	      The ultimate aim of the program is to be able to calculate the time 
+        	      delays and error bounds directly from the provided images. A design
+        	       goal is to follow an inherent modular approach to streamline the 
+        	      process of regression testing. 
 
-	      The fundamental challenge is to reduce the error bounds on the
-	      measurement of time delays. A statistical approach is taken in 
-	      design of the algorithm, coupled with tests from the lightcurve
-	      simulator.
+         	      The fundamental challenge is to reduce the error bounds on the
+        	      measurement of time delays. A statistical approach is taken in 
+	              design of the algorithm, coupled with tests from the lightcurve
+         	      simulator.
 
-Deliverables: (1) Code: 
-                         * Time delay module
-			 * Lightcurve simulator module
-			 * Image processing module
-			 * GUI wrapper
-	      (2) Tests:
-	                 * Unit tests
-			 * Integration tests
-			 * Regression tests
-			 * Alpha/beta tests 
-	      (3) Documentation:
-	      		 * All code modules
+Deliverables:      (1)    Code: 
+                                          * Time delay module
+			                  * Lightcurve simulator module
+			                  * Image processing module
+			                  * GUI wrapper
+                 	      (2) Tests:
+                 	                 * Unit tests
+                  			 * Integration tests
+			                 * Regression tests
+                			 * Alpha/beta tests 
+                  	      (3) Documentation:
+                 	      		 * All code modules
 
-Timeline: To be decided
+Timeline: To be decided, after discussion.
